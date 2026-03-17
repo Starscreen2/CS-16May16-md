@@ -14,6 +14,6 @@ Structured Markdown export from `CS-16May16.pdf`.
 
 ## Notes
 
-- Converted from PDF text extraction.
-- Headings were normalized for readability.
-- Some figures, tables, code alignment, and page-layout artifacts may still be imperfect.
+- Split from the actual chapter bodies, not the table of contents.
+- Headings were normalized into Markdown.
+- Some figures, tables, and code layout still reflect PDF extraction limits.
